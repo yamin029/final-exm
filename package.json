@@ -1,0 +1,26 @@
+{
+  "name": "final-exm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamin029/final-exm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamin029/final-exm/issues"
+  },
+  "homepage": "https://github.com/yamin029/final-exm#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.5",
+    "mongoose": "^5.7.13"
+  }
+}
